@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game Description
 
 This is a simple Snake game built using HTML, CSS, and JavaScript. The player controls a snake that must eat food to gain score, and the game ends when the snake touches the screen boundaries.
 
